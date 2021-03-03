@@ -13,16 +13,6 @@ namespace ValorantAuth
         public static string AccessToken { get; set; }
         public static string EntitlementToken { get; set; }
 
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Enter Username: ");
-            var username = Console.ReadLine();
-            Console.WriteLine("Enter password: ");
-            var password = Console.ReadLine();
-
-            ShopRequest(username, password);
-        }
-
         public static string ShopRequest(string username, string password)
         {
             cookiejar = new CookieContainer();
