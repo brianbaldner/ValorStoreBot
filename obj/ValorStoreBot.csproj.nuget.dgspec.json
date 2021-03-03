@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj": {}
+    "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj": {
+    "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj",
         "projectName": "ValorStoreBot",
-        "projectPath": "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj",
+        "projectPath": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\Documents\\valorstorebot\\obj\\",
+        "outputPath": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,10 +59,6 @@
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[5.0.0, )"
-            },
-            "Valorant.NET": {
-              "target": "Package",
-              "version": "[1.5.0, )"
             }
           },
           "imports": [

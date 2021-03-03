@@ -464,18 +464,6 @@
             "rid": "win"
           }
         }
-      },
-      "Valorant.NET/1.5.0": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.3"
-        },
-        "compile": {
-          "lib/netstandard2.0/ValorantNET.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/ValorantNET.dll": {}
-        }
       }
     }
   },
@@ -1988,18 +1976,6 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Valorant.NET/1.5.0": {
-      "sha512": "Oq/oE3bOWmRnAAqWY9pOy7K6S9kjCZjtS+cx8m76xpfcGluE/J+4lOE6NWecWcSNypYJAtzySzJPuRGx81t/Uw==",
-      "type": "package",
-      "path": "valorant.net/1.5.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/ValorantNET.dll",
-        "valorant.net.1.5.0.nupkg.sha512",
-        "valorant.net.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -2008,8 +1984,7 @@
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Newtonsoft.Json >= 12.0.3",
       "RestSharp >= 106.11.7",
-      "System.Configuration.ConfigurationManager >= 5.0.0",
-      "Valorant.NET >= 1.5.0"
+      "System.Configuration.ConfigurationManager >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -2018,11 +1993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj",
       "projectName": "ValorStoreBot",
-      "projectPath": "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj",
+      "projectPath": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\Documents\\valorstorebot\\obj\\",
+      "outputPath": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2070,10 +2045,6 @@
           "System.Configuration.ConfigurationManager": {
             "target": "Package",
             "version": "[5.0.0, )"
-          },
-          "Valorant.NET": {
-            "target": "Package",
-            "version": "[1.5.0, )"
           }
         },
         "imports": [

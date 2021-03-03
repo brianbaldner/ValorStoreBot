@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7jILTXTh40zsP3ZM8wCHCjD1Wqo8+OlQAmX+Or5pGEsQRqn0FXXXojSOQsOSPnz9Kw4VzcFgyjfknNV926eQ+Q==",
+  "dgSpecHash": "MY677V+r6WqZvwylRHBFuHecC68/tgKSQTEFaozy1+87JAxBjGC4Vam+U9QSEN8vqfGSVeDaFTdV5dknk1ZwCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\Documents\\valorstorebot\\ValorStoreBot.csproj",
+  "projectFilePath": "C:\\Users\\brian\\Documents\\ValorStoreBotgit\\ValorStoreBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\discord.net\\2.3.0\\discord.net.2.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\discord.net.commands\\2.3.0\\discord.net.commands.2.3.0.nupkg.sha512",
@@ -39,8 +39,7 @@
     "C:\\Users\\brian\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\brian\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\brian\\.nuget\\packages\\valorant.net\\1.5.0\\valorant.net.1.5.0.nupkg.sha512"
+    "C:\\Users\\brian\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
